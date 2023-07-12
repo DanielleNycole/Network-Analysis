@@ -9,7 +9,7 @@ This is a collection of the projects and reports I've done for Network Analysis
 
 - <b> [Analyze Network Layer Communication](https://github.com/DanielleNycole/Network-Analysis/blob/main/Network%20Layer%20Communication%20(1).pdf) </b> | I analyzed DNS and ICMP traffic logs on a fictional website that was reported to be down. The goal was to identify if there was malicious traffic on a network.
 
-- <b> [Analyze Network Attacks](https://github.com/DanielleNycole/Network-Analysis) </b> |  I identified the cause of a service interruption when accessing the company’s website. In my report, I have explained how the attack happened, and the impact from it.
+- <b> [Analyze Network Attacks](https://github.com/DanielleNycole/Network-Analysis/blob/main/Network%20Attacks.pdf) </b> |  I identified the cause of a service interruption when accessing the company’s website. In my report, I have explained how the attack happened, and the impact from it.
 
 - <b> [OS Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis) </b> |  I investigated, identified, documented and wrote up a solution for a website that was having security issues when loading the main webpage
 
