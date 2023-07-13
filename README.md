@@ -13,7 +13,7 @@ This is a collection of the projects and reports I've done for Network Analysis
 
 - <b> [OS Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis) </b> |  I investigated, identified, documented and wrote up a solution for a website that was having security issues when loading the main webpage
 
-- <b> [Network Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis) </b> |  I assessed a data breach for a social media organization. I identified common network hardening tools for the organization to implement. I wrote a report to explain to the company how these methods and tools can assist with managing their vulnerability and prevent future incidents
+- <b> [Network Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis/blob/main/Network%20Hardening.pdf) </b> |  I assessed a data breach for a social media organization. I identified common network hardening tools for the organization to implement. I wrote a report to explain to the company how these methods and tools can assist with managing their vulnerability and prevent future incidents
 
 - <b> [Use the NIST Framework to respond to an incident](https://github.com/DanielleNycole/Network-Analysis) </b> 
 <br />
