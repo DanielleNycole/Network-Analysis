@@ -15,7 +15,7 @@ This is a collection of the projects and reports I've done for Network Analysis
 
 - <b> [Network Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis/blob/main/Network%20Hardening.pdf) </b> |  I assessed a data breach for a social media organization. I identified common network hardening tools for the organization to implement. I wrote a report to explain to the company how these methods and tools can assist with managing their vulnerability and prevent future incidents
 
-- <b> [Use the NIST Framework to respond to an incident]([https://github.com/DanielleNycole/Network-Analysis](https://github.com/DanielleNycole/Network-Analysis/blob/main/NIST%20Incident%20report%20analysis.pdf)https://github.com/DanielleNycole/Network-Analysis/blob/main/NIST%20Incident%20report%20analysis.pdf) </b> 
+- <b> [Use the NIST Framework to respond to an incident](https://github.com/DanielleNycole/Network-Analysis](https://github.com/DanielleNycole/Network-Analysis/blob/main/NIST%20Incident%20report%20analysis.pdf)https://github.com/DanielleNycole/Network-Analysis/blob/main/NIST%20Incident%20report%20analysis.pdf) In this report, I reviewed a security event, and used the NIST Framework the analyze the incident</b> 
 <br />
 
  
