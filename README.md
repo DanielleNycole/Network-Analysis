@@ -11,7 +11,7 @@ This is a collection of the projects and reports I've done for Network Analysis
 
 - <b> [Analyze Network Attacks](https://github.com/DanielleNycole/Network-Analysis/blob/main/Network%20Attacks.pdf) </b> |  I identified the cause of a service interruption when accessing the company’s website. In my report, I have explained how the attack happened, and the impact from it.
 
-- <b> [OS Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis) </b> |  I investigated, identified, documented and wrote up a solution for a website that was having security issues when loading the main webpage
+- <b> [OS Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis/blob/main/OS%20Hardening%20.pdf) </b> |  I investigated, identified, documented and wrote up a solution for a website that was having security issues when loading the main webpage
 
 - <b> [Network Hardening Analysis](https://github.com/DanielleNycole/Network-Analysis/blob/main/Network%20Hardening.pdf) </b> |  I assessed a data breach for a social media organization. I identified common network hardening tools for the organization to implement. I wrote a report to explain to the company how these methods and tools can assist with managing their vulnerability and prevent future incidents
 
